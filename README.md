@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayujnath
 - 👀 I’m interested in helping organization win by leveraging DevOps principles in the Cloud.
-- 🌱 I’m currently learning Crossplane
+- 🌱 I’m currently learning Crossplane & Rust
 - 💞️ I’m looking to collaborate on DevOps and Cloud projects
 - 📫 How to reach me - canditude.com
 
